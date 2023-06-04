@@ -7,26 +7,31 @@
             ></path>
          </svg>
          <div class="flex flex-col">
-            <span class="footer-title">Services</span>
-            <a class="link link-hover">Branding</a>
-            <a class="link link-hover">Design</a>
-            <a class="link link-hover">Marketing</a>
-            <a class="link link-hover">Advertisement</a>
+            <span class="footer-title">Alamat</span>
+            <a class="link link-hover">Kota</a>
+            <a class="link link-hover">Kode Pos</a>
+            <a class="link link-hover">Telp</a>
+            <a class="link link-hover">Facebook, Twitter, Instagram</a>
          </div>
       </div>
 
       <div>
-         <span class="footer-title">Company</span>
-         <a class="link link-hover">About us</a>
-         <a class="link link-hover">Contact</a>
-         <a class="link link-hover">Jobs</a>
-         <a class="link link-hover">Press kit</a>
+         <span class="footer-title">Produk</span>
+         <a class="link link-hover">Promo</a>
+         <a class="link link-hover">Baru</a>
+         <a class="link link-hover">Kategori 1</a>
+         <a class="link link-hover">Kategori 2</a>
+         <a class="link link-hover">Kategori 3</a>
       </div>
       <div>
-         <span class="footer-title">Legal</span>
-         <a class="link link-hover">Terms of use</a>
-         <a class="link link-hover">Privacy policy</a>
-         <a class="link link-hover">Cookie policy</a>
+         <span class="footer-title">Perusahaan</span>
+         <a class="link link-hover">About</a>
+         <a class="link link-hover">Contact us</a>
+         <a class="link link-hover">Lowongan Kerja</a>
+         <a class="link link-hover">Galeri</a>
+         <a class="link link-hover">Blog</a>
+         <a class="link link-hover">Kebijakan Privasi</a>
+         <a class="link link-hover">Syarat dan Ketentuan</a>
       </div>
    </footer>
    <footer class="footer footer-center p-4 bg-base-300 text-base-content">
