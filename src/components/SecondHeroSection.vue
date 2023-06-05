@@ -14,21 +14,21 @@
                <div class="avatar">
                   <p>Click the button to listen on Spotiwhy app!!!!!!.</p>
                   <div class="w-24 rounded">
-                     <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
+                     <figure><img src="../assets/image2.jpg" alt="Album" /></figure>
                   </div>
                </div>
             </div>
             <div class="w-full px-4">
                <div class="avatar">
                   <div class="w-24 rounded">
-                     <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
+                     <figure><img src="../assets/image4.jpg" alt="Album" /></figure>
                   </div>
                   <p>Click the button to listen on Spotiwhy app!!!!!!.</p>
                </div>
                <div class="avatar">
                   <p>Click the button to listen on Spotiwhy app!!!!!!.</p>
                   <div class="w-24 rounded">
-                     <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
+                     <figure><img src="../assets/image5.jpg" alt="Album" /></figure>
                   </div>
                </div>
             </div>
@@ -40,7 +40,7 @@
             <div class="px-4 mb-10 md:w-1/2">
                <div class="avatar">
                   <div class="w-24 rounded">
-                     <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
+                     <figure><img src="../assets/image2.jpg" alt="Album" /></figure>
                   </div>
                   <p>Click the button to listen on Spotiwhy app!!!!!!.</p>
                </div>
@@ -54,13 +54,13 @@
             <div class="px-4 md:w-1/2">
                <div class="avatar">
                   <div class="w-24 rounded">
-                     <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
+                     <figure><img src="../assets/image4.jpg" alt="Album" /></figure>
                   </div>
                   <p>Click the button to listen on Spotiwhy app!!!!!!.</p>
                </div>
                <div class="avatar">
                   <div class="w-24 rounded">
-                     <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
+                     <figure><img src="../assets/image5.jpg" alt="Album" /></figure>
                   </div>
                   <p>Click the button to listen on Spotiwhy app!!!!!!.</p>
                </div>
@@ -107,126 +107,6 @@
       </div>
    </section>
    <!-- End New Section -->
-
-   <!-- <div class="flex flex-wrap justify-center lg:hidden">
-      <div class="flex">
-         <div class="avatar">
-            <div class="w-24 rounded">
-               <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
-            </div>
-         </div>
-         <p>Click the button to listen on Spotiwhy app!!!!!!.</p>
-      </div>
-      <div class="flex">
-         <p>Click the button to listen on Spotiwhy app.</p>
-         <div class="avatar">
-            <div class="w-24 rounded">
-               <figure><img src="../assets/image4.jpg" alt="Album" /></figure>
-            </div>
-         </div>
-      </div>
-      <div class="flex">
-         <div class="avatar">
-            <div class="w-24 rounded">
-               <figure><img src="../assets/image5.jpg" alt="Album" /></figure>
-            </div>
-         </div>
-         <p>Click the button to listen on Spotiwhy app.</p>
-      </div>
-      <div class="flex">
-         <p>Click the button to listen on Spotiwhy app.</p>
-         <div class="avatar">
-            <div class="w-24 rounded">
-               <figure><img src="../assets/image6.jpg" alt="Album" /></figure>
-            </div>
-         </div>
-      </div>
-      <div class="flex">
-         <div class="avatar">
-            <div class="w-24 rounded">
-               <figure><img src="../assets/image7.jpg" alt="Album" /></figure>
-            </div>
-         </div>
-         <p>Click the button to listen on Spotiwhy app.</p>
-      </div>
-   </div> -->
-
-   <!-- View Tablet -->
-   <!-- <div class="hidden md:flex md:flex-row">
-      <div class="flex">
-         <div class="avatar">
-            <div class="rounded w-32">
-               <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
-            </div>
-         </div>
-         <p>Click the button to listen on Spotiwhy app.</p>
-      </div>
-      <div class="flex">
-         <div class="avatar">
-            <div class="w-32 rounded">
-               <figure><img src="../assets/image4.jpg" alt="Album" /></figure>
-            </div>
-         </div>
-         <p>Click the button to listen on Spotiwhy app.</p>
-      </div>
-      <div class="flex">
-         <div class="avatar">
-            <div class="w-32 rounded">
-               <figure><img src="../assets/image5.jpg" alt="Album" /></figure>
-            </div>
-         </div>
-         <p>Click the button to listen on Spotiwhy app.</p>
-      </div>
-      <div class="flex">
-         <div class="avatar">
-            <div class="w-32 rounded">
-               <figure><img src="../assets/image6.jpg" alt="Album" /></figure>
-            </div>
-         </div>
-         <p>Click the button to listen on Spotiwhy app.</p>
-      </div>
-      <div class="flex">
-         <div class="avatar">
-            <div class="w-32 rounded">
-               <figure><img src="../assets/image7.jpg" alt="Album" /></figure>
-            </div>
-         </div>
-         <p>Click the button to listen on Spotiwhy app.</p>
-      </div>
-   </div> -->
-
-   <!-- <div class="hidden md:w-full md:flex md:flex-wrap md:justify-items-center">
-      <div class="card w-36 bg-slate-400 shadow-xl">
-         <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
-         <div class="card-body items-center text-center">
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-         </div>
-      </div>
-      <div class="card w-48 bg-slate-400 shadow-xl">
-         <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
-         <div class="card-body items-center text-center">
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-         </div>
-      </div>
-      <div class="card w-48 bg-slate-400 shadow-xl">
-         <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
-         <div class="card-body items-center text-center">
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-         </div>
-      </div>
-      <div class="card w-48 bg-slate-400 shadow-xl">
-         <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
-         <div class="card-body items-center text-center">
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-         </div>
-      </div>
-      <div class="card w-48 bg-slate-400 shadow-xl">
-         <figure><img src="../assets/image3.jpg" alt="Album" /></figure>
-         <div class="card-body items-center text-center">
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-         </div>
-      </div>
-   </div> -->
 </template>
 <script>
 export default {};
